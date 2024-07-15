@@ -1,4 +1,6 @@
-# Vector Search 
+# Vector Search
+
+* Intro to Vector DB : [Slides](https://github.com/quickSilverShanks/DataWhiz-Chat/blob/main/03__VectorSearch/Introduction%20to%20Vector%20DB.pdf)
 
 ## Semantic Search with Elasticsearch
 
@@ -44,5 +46,7 @@ docker run -it \
 * [TODO] : Use open-source LLMs to generate the ground truth data
 
 
-### Ranking evaluation: Text Search
+### Ranking evaluation
 
+* Text Search : [notebook](evaluate-text.ipynb)
+* Vector Search : [notebook](evaluate-vector.ipynb)
